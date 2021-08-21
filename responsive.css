@@ -1,0 +1,8 @@
+@media (max-width: 900px) {
+    section h1 {
+        font-size: 40px;
+    }
+    .cards {
+        flex-direction: column;
+    }
+}
